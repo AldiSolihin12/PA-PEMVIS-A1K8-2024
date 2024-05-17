@@ -46,22 +46,20 @@ Public Class FormDetail
                     bahan1 = String.Join(vbCrLf, bahanArray)
                 End If
 
-                If bahanArray.Length >= 15 Then
+                If bahanArray.Length >= 14 Then
                     bahan2 = String.Join(vbCrLf, bahanArray.Skip(7).Take(7))
                 ElseIf bahanArray.Length > 7 Then
                     bahan2 = String.Join(vbCrLf, bahanArray.Skip(7))
                 End If
 
-                If bahanArray.Length >= 22 Then
-                    bahan3 = String.Join(vbCrLf, bahanArray.Skip(15).Take(7))
-                ElseIf bahanArray.Length > 15 Then
-                    bahan3 = String.Join(vbCrLf, bahanArray.Skip(15))
+                If bahanArray.Length >= 21 Then
+                    bahan3 = String.Join(vbCrLf, bahanArray.Skip(14).Take(7))
+                ElseIf bahanArray.Length > 14 Then
+                    bahan3 = String.Join(vbCrLf, bahanArray.Skip(14))
                 End If
 
-                If bahanArray.Length >= 29 Then
-                    bahan4 = String.Join(vbCrLf, bahanArray.Skip(22).Take(7))
-                ElseIf bahanArray.Length > 22 Then
-                    bahan4 = String.Join(vbCrLf, bahanArray.Skip(22))
+                If bahanArray.Length > 21 Then
+                    bahan4 = String.Join(vbCrLf, bahanArray.Skip(21).Take(7))
                 End If
 
                 langkah = String.Join(vbCrLf, ListBox2.Items.Cast(Of String)().ToArray())
