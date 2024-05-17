@@ -1,0 +1,92 @@
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe.config
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.Resources.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbproj.GenerateResource.Cache
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\bin\Debug\TasteOfIfandi.pdb
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\bin\Debug\TasteOfIfandi.xml
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbprojResolveAssemblyReference.cache
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.exe
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.xml
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.pdb
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.LandingPage.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.CRUD.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormDetail.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormEdit.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormLogin.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormRegister.resources
+c:\users\pongo\onedrive\documents\visual studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormTambah.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe.config
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.exe
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.xml
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.pdb
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.pdb
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.xml
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbprojResolveAssemblyReference.cache
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.CRUD.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormDetail.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormEdit.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormLogin.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormRegister.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormTambah.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.LandingPage.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.Resources.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe.config
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.exe
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.xml
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.pdb
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.pdb
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\bin\Debug\TasteOfIfandi.xml
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.CRUD.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormDetail.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormEdit.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormLogin.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormRegister.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormTambah.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.LandingPage.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.Resources.resources
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Downloads\TasteOfIfandi - Copy\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormKomenRating.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe.config
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.exe
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.xml
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.pdb
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\bin\Debug\TasteOfIfandi.pdb
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\bin\Debug\TasteOfIfandi.xml
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbprojResolveAssemblyReference.cache
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.CRUD.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormDetail.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormEdit.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormKomenRating.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormLogin.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormRegister.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormTambah.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.LandingPage.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.Resources.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbproj.GenerateResource.Cache
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiRate\TasteOfIfandi\obj\Debug\TasteOfIfandi.Guest.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe.config
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.exe
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.xml
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.pdb
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\bin\Debug\TasteOfIfandi.exe
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\bin\Debug\TasteOfIfandi.pdb
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\bin\Debug\TasteOfIfandi.xml
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbprojResolveAssemblyReference.cache
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.CRUD.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormDetail.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormEdit.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormKomenRating.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormLogin.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormRegister.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormTambah.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.LandingPage.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.Resources.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.Guest.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandiFinal\TasteOfIfandi\obj\Debug\TasteOfIfandi.vbproj.GenerateResource.Cache
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.FormKomenRating.resources
+C:\Users\Pongo\OneDrive\Documents\Visual Studio 2012\Projects\TasteOfIfandi\TasteOfIfandi\obj\Debug\TasteOfIfandi.Guest.resources
